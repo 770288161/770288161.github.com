@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-07 21:53:06
+ * @version $Id$
+ */
+body,ul,li,h4,a{margin:0px;padding: 0px;}
+ul,li,ol{list-style:none;}
+a:link,a:visited{color: #444;text-decoration:none;}
+a:hover{color: red;}
+img{border: 0;}
+body{
+	font-size: 14px;
+	color: #444;
+	font-family:Georgia；
+}

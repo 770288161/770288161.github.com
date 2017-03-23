@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/** 
+ *    
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-02 23:08:30
+ * @version $Id$
+ */
+/*t1*/
+#one {
+	width: 800px;
+}
+.big {
+	width: 120px;
+	height: 200px;
+	margin: 40px 80px 20px 80px;
+	float: left;
+	background-color: green;
+}
+.small {
+	width: 100px;
+	height: 100px;
+	margin: 20px 20px 40px 20px;
+	float: left;
+	background-color: blue;
+}
+.clear {
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #ckxx{
+	width:182px;
+	height: 91px;
+	margin-left: 300px;
+	margin-top: 25px;
+	margin: 15px;
+	border: 1px solid red;
+	float: left;
+}
+.headbox{
+	
+	color: red;
+	width: auto;
+	height: 150px;
+	border: 1px solid blue;
+}
+.headtext{
+	margin-left: 300px;
+	word-spacing: -20px;
+	border: 1px solid green;
+	float: left;
+}
+.secondbox{
+	width: 2000px;
+	height: 150px;
+	border: 1px solid black;
+	float: left;
+
+} */
