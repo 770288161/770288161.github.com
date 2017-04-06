@@ -17,5 +17,5 @@ document.getElementById("c1").addEventListener("click", function(){
 });
 
 document.getElementById('c6').addEventListener("click", function(){
-	document.getElementById("c6").
+	document.getElementById("c6");
 });
