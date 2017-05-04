@@ -6,8 +6,97 @@
  * @version $Id$
  */
 /*t1*/
-#tb1{
-	width: 100px;
+body{
+	background-color: rgb(192,192,192);
+	padding: 30px;
+}
+
+.task1{
+	position: relative;
+	left: 500px;
+	top: 50px;
+	width: 200px;
 	height: 20px;
-	background-color: red;
+	border:2px solid;
+	border-radius:10px;
+	text-align: center;
+}
+.task2{
+	position: relative;
+	left: 400px;
+	top:140px;
+	width: 200px;
+	height: 20px;
+	-webkit-transform:rotate(-95deg);
+	border:2px solid;
+	border-radius:10px;
+	text-align: center;
+}
+.task3{
+	position: relative;
+	left: 590px;
+	top:115px;
+	width: 200px;
+	height: 20px;
+	-webkit-transform:rotate(-80deg);
+	border:2px solid;
+	border-radius:10px;
+	text-align: center;
+}
+.task4{
+	position: relative;
+	left: 500px;
+	top: 170px;
+	width: 200px;
+	height: 20px;
+	border:2px solid;
+	border-radius:10px;
+	-webkit-transform:rotate(-8deg);
+	text-align: center;
+}
+.task5{
+	position: relative;
+	left: 450px;
+	top: 200px;
+	width: 270px;
+	height: 20px;
+	border:2px solid;
+	border-radius:10px;
+	text-align: center;
+	-webkit-transform:rotate(-5deg);
+}
+.task6{
+	position: relative;
+	left: 367px;
+	top:275px;
+	width: 210px;
+	height: 20px;
+	-webkit-transform:rotate(-95deg);
+	border:2px solid;
+	border-radius:10px;
+	text-align: center;
+}
+
+
+.task7{
+	position: relative;
+	left: 450px;
+	top: 340px;
+	width: 280px;
+	height: 20px;
+	border:2px solid;
+	border-radius:10px;
+	text-align: center;
+	-webkit-transform:rotate(0deg);
+}
+.task8{
+	position: relative;
+	left: 600px;
+	top:205px;
+	width: 210px;
+	height: 20px;
+	-webkit-transform:rotate(-90deg);
+	border:2px solid;
+	border-radius:10px;
+	text-align: center;
 }
